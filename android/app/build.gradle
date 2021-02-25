@@ -53,10 +53,10 @@ android {
 
     signingConfigs {
         config {
-            storeFile file('firstflutterapp.jks')
-            storePassword '123456'
-            keyAlias 'key0'
-            keyPassword '123456'
+            storeFile file('XXX.jks')
+            storePassword 'XXX'
+            keyAlias 'XXX'
+            keyPassword 'XXX'
         }
     }
 
