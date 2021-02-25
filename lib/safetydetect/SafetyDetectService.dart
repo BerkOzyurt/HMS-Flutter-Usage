@@ -8,7 +8,7 @@ import 'package:prefs/prefs.dart';
 
 class SafetyDetectService{
 
-  String appID = "103720689";
+  String appID = "XXX";
 
   void checkSysIntegrity() async {
     SharedPreferences checkSysIntegrityPrefs = await SharedPreferences.getInstance();
