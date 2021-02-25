@@ -15,7 +15,7 @@ class _SafetyDetectPageState extends State<SafetyDetectPage> with SingleTickerPr
 
   final SafetyDetectService mySafeDetectService = new SafetyDetectService();
 
-  String appID = "103720689";
+  String appID = "XXX";
 
   String SysIntegrityResult = "Click 'Check' Button";
   String MaliciousAppsListResult = "Click 'Get Malicious Apps List' Button";
