@@ -58,7 +58,7 @@ class _MyAppState extends State<MyApp> {
       title: 'Huawei Auth Service',
       theme: ThemeData(),
       darkTheme:ThemeData.dark(),
-      home: ScanQRPage(),
+      home: HomePage(),
     );
   }
 
